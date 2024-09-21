@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**WzzzzzzW/WzzzzzzW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center">WiliW</p>
 
-Here are some ideas to get you started:
+<div align=center>
+    <img src="https://avatars.cdn.queniuqe.com/0ab0ef596bc0fc9b34bf44dda5f71f0d874cec83_full.jpg">
+</div>
+<p align="center">
+    这边是Wzz酱哦...算是初次见面吗...？毕竟曾经也有过想要创建一个属于自己的个人空间吧...w
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 关于我
+* 名称: Wzzzzzz
+* 年龄:16
+* 年级 高二
+* 有接触的语言
+    * Python
+    * C#
+    * html
+    * css
+* 爱好
+     * 编程
+     * 钢琴
+     * 睡觉
+* 语种
+     * 中文Chinese（100%）
+     * 英文English（20%）
+# 怎么称呼
+自己的称呼方式有挺多种的...多到自己可能都记不太住吧
+* 小w酱
+* 小w
+* 哒不溜
+* 哒不妞
+#### 这些都是可以的哦^^
+# 为什么会来到这里
+关于这个问题...可能是闲着无聊吧...不过我倒是想在闲的时候写写这些来打发打发时间，这样就不是虚度光阴了（？）
+# 关于未来
+* 以后的话...我会不定期的将自己做的些项目发到这里哦，可能会是些挺无聊的功能？也可能是自己的某次学校作业的项目吧，
+感兴趣的话可以来翻翻噢(wink~)
+
+# 个人的联系方式
+* STEAM:1402081517（常用的）
+* QQ:2419719916 （常用的）
+* X:@wiliw11（不经常;w;）
+* Discord:（暂时查看不了）
+#
